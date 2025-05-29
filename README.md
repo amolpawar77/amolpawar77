@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋 I’m Amol Pawar, a passionate and skilled Web Developer with expertise in building dynamic, responsive, and scalable applications. I specialize in a range of technologies and bring a strong understanding of modern development practices to every project I work on.
 
-<!--
-**amolpawar77/amolpawar77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me 🔭 Currently working at: Sdaemon Infotech Private Limited, contributing to impactful projects and delivering exceptional solutions.
 
-Here are some ideas to get you started:
+🌐 Skills: Front-End: Angular, React.js, JavaScript, RxJS, jQuery, Bootsrap, HTML5, CSS3,  (including Responsive Design). Back-End: C#, Asp.Net
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Third-Party Libraries: Angular-specific: ngx-bootstrap, Angular Material, PrimeNG,DevExtreem, ngx-slick-carousel. General libraries: Lodash, Moment.js, Chart.js, and D3.js,day.js.
+
+Tools & Practices: Azure DevOps, CI/CD pipelines, Git, Design Patterns.
+
+Other Expertise: Web development, system design, and deployment.
+
+🌱 Currently learning: Advanced cloud development, microservices architecture, and full-stack optimization.
+
+👯 Looking to collaborate on: Web development projects, enterprise-level applications, and innovative SaaS products.
+
+📫 How to reach me: Connect with me on LinkedIn or email me at amolbpawar001@gmail.com
+
+⚡ Fun fact: I love solving complex challenges, whether it's debugging code or designing scalable systems—problems are just puzzles waiting to be solved! 🧩
